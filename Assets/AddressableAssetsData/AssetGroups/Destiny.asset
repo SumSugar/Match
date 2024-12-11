@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Destiny
+  m_EditorClassIdentifier: 
+  m_GroupName: Destiny
+  m_GUID: 95f05c26c206b184da91f23b30988613
+  m_SerializeEntries:
+  - m_GUID: 744317018952e6148834b77ab8e6ed75
+    m_Address: Life
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BreakerData
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d42e8a7efde45184e8b19bf9a4b03071
+    m_Address: Defense
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DestinyData
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: acc0cfb47f956ee43939947e4cc2306d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0083894563f927041bae91a803ae4d42, type: 2}
+    - {fileID: 11400000, guid: 7987c6e75a110344f9e161123ffadf66, type: 2}

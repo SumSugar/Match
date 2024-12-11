@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6050830159471284793
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4404098027935853117}
+  - component: {fileID: 1882347668515596315}
+  - component: {fileID: 8288347980343205964}
+  - component: {fileID: 8564119412067388171}
+  - component: {fileID: 3376804879253246535}
+  - component: {fileID: 6486349999955133040}
+  m_Layer: 0
+  m_Name: Destiny Deck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4404098027935853117
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6050830159471284793}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1882347668515596315
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6050830159471284793}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63184b9b600545748b626de7ebc7a066, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  destinyManager: {fileID: 0}
+  destinyLayoutManager: {fileID: 0}
+  deckPosition: {x: 0, y: 0, z: 0}
+  drawDeck: []
+  initDestinys: 2
+  drawCountEvent: {fileID: 11400000, guid: 1267f394cce69424db4514b5b092560e, type: 2}
+  disDestinyCountEvent: {fileID: 11400000, guid: 06d826bffe4650c4f855fc94e6c8d92b, type: 2}
+--- !u!114 &8288347980343205964
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6050830159471284793}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb97f35ba38f4e940871adee22ff339f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  poolTool: {fileID: 0}
+  originScale: {x: 0, y: 0, z: 0}
+  destinyDataList: []
+  currentDestinyDataList: []
+  newGameLibrary: {fileID: 11400000, guid: 76d3964792d6c0e47ae6b6d7886c1480, type: 2}
+  assestLoadCompeleteEvnet: {fileID: 11400000, guid: d4cbaa0afc649da4ebed1b2c5ef59588, type: 2}
+--- !u!114 &8564119412067388171
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6050830159471284793}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb1a41a4d8d6a6f4aa715b0113afd0a3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isHorizontal: 1
+  maxWidth: 7
+  destinySpacing: 1
+  angleBwtweenDestinys: 7
+  radius: 5
+  centerPoint: {x: 0, y: 0, z: 0}
+  destinyLoaclPositions: []
+--- !u!114 &3376804879253246535
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6050830159471284793}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e570fee10537f494d8de57dfbe2bcf84, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectPrefab: {fileID: 4797336169436932594, guid: 31bcd06f5a661eb4ab2897928b470630, type: 3}
+--- !u!114 &6486349999955133040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6050830159471284793}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d25c61daefea5484c93465b839e76b3a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  eventSO: {fileID: 11400000, guid: fee9b724dda48344a8ff3f877a6354fe, type: 2}
+  response:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1882347668515596315}
+        m_TargetAssemblyTypeName: DestinyDeck, Assembly-CSharp
+        m_MethodName: OnBattleStart
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2

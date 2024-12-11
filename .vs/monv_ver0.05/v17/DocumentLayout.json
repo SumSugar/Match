@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\UnityHub\\unityproject\\monv_ver0.05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20E57DCB-F167-EB17-E3B2-EE2B562217B0}|Assembly-CSharp.csproj|g:\\unityhub\\unityproject\\monv_ver0.05\\assets\\scripts\\manager\\breakerdeckmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E57DCB-F167-EB17-E3B2-EE2B562217B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\breakerdeckmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E57DCB-F167-EB17-E3B2-EE2B562217B0}|Assembly-CSharp.csproj|g:\\unityhub\\unityproject\\monv_ver0.05\\assets\\scripts\\ui\\panel\\breakerqueuepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E57DCB-F167-EB17-E3B2-EE2B562217B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\panel\\breakerqueuepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E57DCB-F167-EB17-E3B2-EE2B562217B0}|Assembly-CSharp.csproj|g:\\unityhub\\unityproject\\monv_ver0.05\\assets\\scripts\\character\\characterbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E57DCB-F167-EB17-E3B2-EE2B562217B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\characterbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E57DCB-F167-EB17-E3B2-EE2B562217B0}|Assembly-CSharp.csproj|G:\\UnityHub\\unityproject\\monv_ver0.05\\assets\\scripts\\card\\scriptableobject\\breakerdataso\\breakerlibraryso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E57DCB-F167-EB17-E3B2-EE2B562217B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card\\scriptableobject\\breakerdataso\\breakerlibraryso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E57DCB-F167-EB17-E3B2-EE2B562217B0}|Assembly-CSharp.csproj|G:\\UnityHub\\unityproject\\monv_ver0.05\\assets\\scripts\\manager\\breakermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E57DCB-F167-EB17-E3B2-EE2B562217B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\breakermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E57DCB-F167-EB17-E3B2-EE2B562217B0}|Assembly-CSharp.csproj|G:\\UnityHub\\unityproject\\monv_ver0.05\\assets\\scripts\\card\\monobehaviour\\breaker\\breakerdeck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E57DCB-F167-EB17-E3B2-EE2B562217B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card\\monobehaviour\\breaker\\breakerdeck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E57DCB-F167-EB17-E3B2-EE2B562217B0}|Assembly-CSharp.csproj|G:\\UnityHub\\unityproject\\monv_ver0.05\\assets\\scripts\\character\\fsm\\state\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E57DCB-F167-EB17-E3B2-EE2B562217B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\fsm\\state\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E57DCB-F167-EB17-E3B2-EE2B562217B0}|Assembly-CSharp.csproj|G:\\UnityHub\\unityproject\\monv_ver0.05\\assets\\scripts\\character\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E57DCB-F167-EB17-E3B2-EE2B562217B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E57DCB-F167-EB17-E3B2-EE2B562217B0}|Assembly-CSharp.csproj|G:\\UnityHub\\unityproject\\monv_ver0.05\\assets\\scripts\\manager\\cardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E57DCB-F167-EB17-E3B2-EE2B562217B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\cardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E57DCB-F167-EB17-E3B2-EE2B562217B0}|Assembly-CSharp.csproj|G:\\UnityHub\\unityproject\\monv_ver0.05\\assets\\scripts\\character\\scriptableobject\\characterdataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E57DCB-F167-EB17-E3B2-EE2B562217B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\scriptableobject\\characterdataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BreakerDeckManager.cs",
+              "DocumentMoniker": "G:\\UnityHub\\unityproject\\monv_ver0.05\\Assets\\Scripts\\Manager\\BreakerDeckManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\BreakerDeckManager.cs",
+              "ToolTip": "G:\\UnityHub\\unityproject\\monv_ver0.05\\Assets\\Scripts\\Manager\\BreakerDeckManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\BreakerDeckManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:31:58.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BreakerQueuePanel.cs",
+              "DocumentMoniker": "G:\\UnityHub\\unityproject\\monv_ver0.05\\Assets\\Scripts\\UI\\Panel\\BreakerQueuePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Panel\\BreakerQueuePanel.cs",
+              "ToolTip": "G:\\UnityHub\\unityproject\\monv_ver0.05\\Assets\\Scripts\\UI\\Panel\\BreakerQueuePanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Panel\\BreakerQueuePanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:31:04.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AttackState.cs",
+              "DocumentMoniker": "G:\\UnityHub\\unityproject\\monv_ver0.05\\Assets\\Scripts\\Character\\FSM\\State\\AttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\FSM\\State\\AttackState.cs",
+              "ToolTip": "G:\\UnityHub\\unityproject\\monv_ver0.05\\Assets\\Scripts\\Character\\FSM\\State\\AttackState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\FSM\\State\\AttackState.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAASwC4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T03:08:04.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CharacterDataSO.cs",
+              "DocumentMoniker": "G:\\UnityHub\\unityproject\\monv_ver0.05\\Assets\\Scripts\\Character\\ScriptableObject\\CharacterDataSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\ScriptableObject\\CharacterDataSO.cs",
+              "ToolTip": "G:\\UnityHub\\unityproject\\monv_ver0.05\\Assets\\Scripts\\Character\\ScriptableObject\\CharacterDataSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\ScriptableObject\\CharacterDataSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T02:54:08.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CardManager.cs",
+              "DocumentMoniker": "G:\\UnityHub\\unityproject\\monv_ver0.05\\Assets\\Scripts\\Manager\\CardManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\CardManager.cs",
+              "ToolTip": "G:\\UnityHub\\unityproject\\monv_ver0.05\\Assets\\Scripts\\Manager\\CardManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\CardManager.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwBAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T00:42:15.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CharacterBase.cs",
+              "DocumentMoniker": "G:\\UnityHub\\unityproject\\monv_ver0.05\\Assets\\Scripts\\Character\\CharacterBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\CharacterBase.cs",
+              "ToolTip": "G:\\UnityHub\\unityproject\\monv_ver0.05\\Assets\\Scripts\\Character\\CharacterBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\CharacterBase.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAADwv1IAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T02:06:23.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "G:\\UnityHub\\unityproject\\monv_ver0.05\\Assets\\Scripts\\Character\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\Enemy.cs",
+              "ToolTip": "G:\\UnityHub\\unityproject\\monv_ver0.05\\Assets\\Scripts\\Character\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\Enemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T02:25:32.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BreakerDeck.cs",
+              "DocumentMoniker": "G:\\UnityHub\\unityproject\\monv_ver0.05\\Assets\\Scripts\\Card\\MonoBehaviour\\Breaker\\BreakerDeck.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Card\\MonoBehaviour\\Breaker\\BreakerDeck.cs",
+              "ToolTip": "G:\\UnityHub\\unityproject\\monv_ver0.05\\Assets\\Scripts\\Card\\MonoBehaviour\\Breaker\\BreakerDeck.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Card\\MonoBehaviour\\Breaker\\BreakerDeck.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAUwAcBAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T00:51:06.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BreakerManager.cs",
+              "DocumentMoniker": "G:\\UnityHub\\unityproject\\monv_ver0.05\\Assets\\Scripts\\Manager\\BreakerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\BreakerManager.cs",
+              "ToolTip": "G:\\UnityHub\\unityproject\\monv_ver0.05\\Assets\\Scripts\\Manager\\BreakerManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\BreakerManager.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAADwvwgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T00:43:14.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BreakerLibrarySO.cs",
+              "DocumentMoniker": "G:\\UnityHub\\unityproject\\monv_ver0.05\\Assets\\Scripts\\Card\\ScriptableObject\\BreakerDataSO\\BreakerLibrarySO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Card\\ScriptableObject\\BreakerDataSO\\BreakerLibrarySO.cs",
+              "ToolTip": "G:\\UnityHub\\unityproject\\monv_ver0.05\\Assets\\Scripts\\Card\\ScriptableObject\\BreakerDataSO\\BreakerLibrarySO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Card\\ScriptableObject\\BreakerDataSO\\BreakerLibrarySO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T00:44:24.202Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

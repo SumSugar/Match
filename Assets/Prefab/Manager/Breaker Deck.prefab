@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8194931533606599579
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4656872520392272052}
+  - component: {fileID: 4453404898864864590}
+  - component: {fileID: 2976420621791540989}
+  - component: {fileID: 5945493976596749158}
+  - component: {fileID: 2288831277687222138}
+  - component: {fileID: 7588820167401811691}
+  m_Layer: 0
+  m_Name: Breaker Deck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4656872520392272052
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8194931533606599579}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4453404898864864590
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8194931533606599579}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dea529d7dcbb524db84810ea8be1fa7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  breakerManager: {fileID: 0}
+  breakerLayoutManager: {fileID: 0}
+  deckPosition: {x: 0, y: 0, z: 0}
+  drawDeck: []
+  initBreakers: 2
+  handBreakerObjectList: []
+  currentBreaker: {fileID: 0}
+  isHandleEmpty: 0
+  isAutoDraw: 0
+  drawCountEvent: {fileID: 11400000, guid: 1267f394cce69424db4514b5b092560e, type: 2}
+  disBreakerCountEvent: {fileID: 11400000, guid: 06d826bffe4650c4f855fc94e6c8d92b, type: 2}
+--- !u!114 &2976420621791540989
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8194931533606599579}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a9c099de5187824bb3d30898a675859, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  poolTool: {fileID: 0}
+  originScale: {x: 0, y: 0, z: 0}
+  breakerDataList: []
+  currentBreakerDataList: []
+  newGameLibrary: {fileID: 11400000, guid: e0a0c3ce4cded7744b31273a4057fe1a, type: 2}
+  assestLoadCompeleteEvnet: {fileID: 11400000, guid: d4cbaa0afc649da4ebed1b2c5ef59588, type: 2}
+--- !u!114 &5945493976596749158
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8194931533606599579}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f1ceb10eed62204fa5fa4ad389e8d35, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isHorizontal: 1
+  maxWidth: 7
+  breakerSpacing: 1
+  angleBwtweenBreakers: 7
+  radius: 17
+  centerPoint: {x: 0, y: 0, z: 0}
+  breakerLoaclPositions: []
+--- !u!114 &2288831277687222138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8194931533606599579}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e570fee10537f494d8de57dfbe2bcf84, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectPrefab: {fileID: 4797336169436932594, guid: 922e75ff7fcb52f44a6ddefd5487f7a7, type: 3}
+--- !u!114 &7588820167401811691
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8194931533606599579}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d25c61daefea5484c93465b839e76b3a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  eventSO: {fileID: 11400000, guid: 7c0141a8d45df104986c1f3d37274f10, type: 2}
+  response:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 4453404898864864590}
+        m_TargetAssemblyTypeName: BreakerDeck, Assembly-CSharp
+        m_MethodName: OnPreparationPhaseStartEvent
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2

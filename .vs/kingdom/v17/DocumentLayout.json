@@ -1,0 +1,407 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\UnityHub\\unityproject\\kingdom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|f:\\unityhub\\unityproject\\kingdom\\assets\\scripts\\card\\monobehaviour\\carddraghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card\\monobehaviour\\carddraghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|F:\\UnityHub\\unityproject\\kingdom\\assets\\scripts\\cardeffect\\damageeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cardeffect\\damageeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|f:\\unityhub\\unityproject\\kingdom\\assets\\scripts\\card\\monobehaviour\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card\\monobehaviour\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|F:\\UnityHub\\unityproject\\kingdom\\assets\\scripts\\character\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|F:\\UnityHub\\unityproject\\kingdom\\assets\\scripts\\card\\monobehaviour\\carddeck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card\\monobehaviour\\carddeck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|F:\\UnityHub\\unityproject\\kingdom\\assets\\scripts\\character\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|F:\\UnityHub\\unityproject\\kingdom\\assets\\scripts\\manager\\cardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\cardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|F:\\UnityHub\\unityproject\\kingdom\\assets\\scripts\\utilities\\pooltool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilities\\pooltool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|F:\\UnityHub\\unityproject\\kingdom\\assets\\scripts\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|F:\\UnityHub\\unityproject\\kingdom\\assets\\scripts\\card\\scriptableobject\\cardlibraryso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card\\scriptableobject\\cardlibraryso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|F:\\UnityHub\\unityproject\\kingdom\\assets\\scripts\\manager\\sceneloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\sceneloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|F:\\UnityHub\\unityproject\\kingdom\\assets\\scripts\\utilities\\cardtransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilities\\cardtransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|F:\\UnityHub\\unityproject\\kingdom\\assets\\scripts\\manager\\cardlayoutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\cardlayoutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|F:\\UnityHub\\unityproject\\kingdom\\assets\\scripts\\room\\monobehavior\\finishroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\room\\monobehavior\\finishroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|F:\\UnityHub\\unityproject\\kingdom\\assets\\scripts\\room\\monobehavior\\map generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\room\\monobehavior\\map generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|F:\\UnityHub\\unityproject\\kingdom\\assets\\scripts\\room\\monobehavior\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\room\\monobehavior\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|F:\\UnityHub\\unityproject\\kingdom\\assets\\scripts\\room\\monobehavior\\maplayoutso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\room\\monobehavior\\maplayoutso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|F:\\UnityHub\\unityproject\\kingdom\\assets\\scripts\\room\\scriptableobject\\roomdataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\room\\scriptableobject\\roomdataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|F:\\UnityHub\\unityproject\\kingdom\\assets\\scripts\\utilities\\serializevector3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilities\\serializevector3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A9292-0058-F4A0-46C7-FF256D6CFAF4}|Assembly-CSharp-Editor.csproj|F:\\UnityHub\\unityproject\\kingdom\\assets\\scripts\\events\\editor\\objecteventsoeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561A9292-0058-F4A0-46C7-FF256D6CFAF4}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\scripts\\events\\editor\\objecteventsoeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|F:\\UnityHub\\unityproject\\kingdom\\assets\\scripts\\room\\scriptableobject\\mapconfigso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\room\\scriptableobject\\mapconfigso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|F:\\UnityHub\\unityproject\\kingdom\\assets\\scripts\\utilities\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilities\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|F:\\UnityHub\\unityproject\\kingdom\\assets\\scripts\\room\\monobehavior\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC383A9-46CC-F91D-0003-A4A4D34760EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\room\\monobehavior\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\UnityHub\\unityproject\\kingdom\\Assets\\GameData\\Events\\NewUSSFile.uss||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\GameData\\Events\\NewUSSFile.uss||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardDragHandler.cs",
+              "DocumentMoniker": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Card\\MonoBehaviour\\CardDragHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Card\\MonoBehaviour\\CardDragHandler.cs",
+              "ToolTip": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Card\\MonoBehaviour\\CardDragHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Card\\MonoBehaviour\\CardDragHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T06:11:50.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DamageEffect.cs",
+              "DocumentMoniker": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\CardEffect\\DamageEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CardEffect\\DamageEffect.cs",
+              "ToolTip": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\CardEffect\\DamageEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CardEffect\\DamageEffect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T08:25:31.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Character\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\Player.cs",
+              "ToolTip": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Character\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\Player.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:14:10.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Character\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\Enemy.cs",
+              "ToolTip": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Character\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\Enemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:58:36.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Card.cs",
+              "DocumentMoniker": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Card\\MonoBehaviour\\Card.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Card\\MonoBehaviour\\Card.cs",
+              "ToolTip": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Card\\MonoBehaviour\\Card.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Card\\MonoBehaviour\\Card.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAABIwAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T05:14:51.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PoolTool.cs",
+              "DocumentMoniker": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Utilities\\PoolTool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilities\\PoolTool.cs",
+              "ToolTip": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Utilities\\PoolTool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utilities\\PoolTool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T09:08:35.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CardTransform.cs",
+              "DocumentMoniker": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Utilities\\CardTransform.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilities\\CardTransform.cs",
+              "ToolTip": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Utilities\\CardTransform.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utilities\\CardTransform.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:26:59.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CardLayoutManager.cs",
+              "DocumentMoniker": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Manager\\CardLayoutManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\CardLayoutManager.cs",
+              "ToolTip": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Manager\\CardLayoutManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\CardLayoutManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:52:42.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CardDeck.cs",
+              "DocumentMoniker": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Card\\MonoBehaviour\\CardDeck.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Card\\MonoBehaviour\\CardDeck.cs",
+              "ToolTip": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Card\\MonoBehaviour\\CardDeck.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Card\\MonoBehaviour\\CardDeck.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAABIwHgAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:20:29.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CardManager.cs",
+              "DocumentMoniker": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Manager\\CardManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\CardManager.cs",
+              "ToolTip": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Manager\\CardManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\CardManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwCAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T05:59:21.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CardLibrarySO.cs",
+              "DocumentMoniker": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Card\\ScriptableObject\\CardLibrarySO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Card\\ScriptableObject\\CardLibrarySO.cs",
+              "ToolTip": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Card\\ScriptableObject\\CardLibrarySO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Card\\ScriptableObject\\CardLibrarySO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T05:44:01.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\GameManager.cs",
+              "ToolTip": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:31:26.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SceneLoadManager.cs",
+              "DocumentMoniker": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Manager\\SceneLoadManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\SceneLoadManager.cs",
+              "ToolTip": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Manager\\SceneLoadManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\SceneLoadManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:05:51.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FinishRoom.cs",
+              "DocumentMoniker": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Room\\MonoBehavior\\FinishRoom.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Room\\MonoBehavior\\FinishRoom.cs",
+              "ToolTip": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Room\\MonoBehavior\\FinishRoom.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Room\\MonoBehavior\\FinishRoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:05:51.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Line.cs",
+              "DocumentMoniker": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Room\\MonoBehavior\\Line.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Room\\MonoBehavior\\Line.cs",
+              "ToolTip": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Room\\MonoBehavior\\Line.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Room\\MonoBehavior\\Line.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-26T00:05:51.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Room.cs",
+              "DocumentMoniker": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Room\\MonoBehavior\\Room.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Room\\MonoBehavior\\Room.cs",
+              "ToolTip": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Room\\MonoBehavior\\Room.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Room\\MonoBehavior\\Room.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvygAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:05:51.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MapLayoutSO.cs",
+              "DocumentMoniker": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Room\\MonoBehavior\\MapLayoutSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Room\\MonoBehavior\\MapLayoutSO.cs",
+              "ToolTip": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Room\\MonoBehavior\\MapLayoutSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Room\\MonoBehavior\\MapLayoutSO.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvxAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:05:51.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Map Generator.cs",
+              "DocumentMoniker": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Room\\MonoBehavior\\Map Generator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Room\\MonoBehavior\\Map Generator.cs",
+              "ToolTip": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Room\\MonoBehavior\\Map Generator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Room\\MonoBehavior\\Map Generator.cs",
+              "ViewState": "AQIAAN4AAAAAAAAAAAAawAYBAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:05:51.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ObjectEventSOEditor.cs",
+              "DocumentMoniker": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Events\\Editor\\ObjectEventSOEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Events\\Editor\\ObjectEventSOEditor.cs",
+              "ToolTip": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Events\\Editor\\ObjectEventSOEditor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Events\\Editor\\ObjectEventSOEditor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-26T00:05:51.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RoomDataSO.cs",
+              "DocumentMoniker": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Room\\ScriptableObject\\RoomDataSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Room\\ScriptableObject\\RoomDataSO.cs",
+              "ToolTip": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Room\\ScriptableObject\\RoomDataSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Room\\ScriptableObject\\RoomDataSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-26T00:05:51.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SerializeVector3.cs",
+              "DocumentMoniker": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Utilities\\SerializeVector3.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilities\\SerializeVector3.cs",
+              "ToolTip": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Utilities\\SerializeVector3.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utilities\\SerializeVector3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAAFAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-26T00:05:51.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NewUSSFile.uss",
+              "DocumentMoniker": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\GameData\\Events\\NewUSSFile.uss",
+              "RelativeDocumentMoniker": "Assets\\GameData\\Events\\NewUSSFile.uss",
+              "ToolTip": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\GameData\\Events\\NewUSSFile.uss",
+              "RelativeToolTip": "Assets\\GameData\\Events\\NewUSSFile.uss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-25T21:21:08.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MapConfigSO.cs",
+              "DocumentMoniker": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Room\\ScriptableObject\\MapConfigSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Room\\ScriptableObject\\MapConfigSO.cs",
+              "ToolTip": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Room\\ScriptableObject\\MapConfigSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Room\\ScriptableObject\\MapConfigSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-26T00:05:51.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Utilities\\Enums.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilities\\Enums.cs",
+              "ToolTip": "F:\\UnityHub\\unityproject\\kingdom\\Assets\\Scripts\\Utilities\\Enums.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utilities\\Enums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-26T00:05:51.717Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

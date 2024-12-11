@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae9a7095a42789943ae96f6d1697fd80, type: 3}
+  m_Name: RestRoom
+  m_EditorClassIdentifier: 
+  roomIcon: {fileID: 21300000, guid: 0f0c989c7a908490798b1449550321fb, type: 3}
+  roomType: 16
+  sceneToLoad:
+    m_AssetGUID: 371224c05d3568e419b5fc49bb134b13
+    m_SubObjectName: 
+    m_SubObjectGUID: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
