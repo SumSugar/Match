@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\UnityHub\\unityproject\\monv_ver0.07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23E3B1D7-1E32-0549-7BD8-2F1F8286DA42}|Assembly-CSharp.csproj|g:\\unityhub\\unityproject\\monv_ver0.07\\assets\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E3B1D7-1E32-0549-7BD8-2F1F8286DA42}|Assembly-CSharp.csproj|solutionrelative:assets\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E3B1D7-1E32-0549-7BD8-2F1F8286DA42}|Assembly-CSharp.csproj|G:\\UnityHub\\unityproject\\monv_ver0.07\\assets\\scripts\\character\\characterbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E3B1D7-1E32-0549-7BD8-2F1F8286DA42}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\characterbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E3B1D7-1E32-0549-7BD8-2F1F8286DA42}|Assembly-CSharp.csproj|G:\\UnityHub\\unityproject\\monv_ver0.07\\assets\\scripts\\card\\monobehaviour\\destiny\\destinytrailmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E3B1D7-1E32-0549-7BD8-2F1F8286DA42}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card\\monobehaviour\\destiny\\destinytrailmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E3B1D7-1E32-0549-7BD8-2F1F8286DA42}|Assembly-CSharp.csproj|G:\\UnityHub\\unityproject\\monv_ver0.07\\assets\\scripts\\manager\\breakerdeckmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E3B1D7-1E32-0549-7BD8-2F1F8286DA42}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\breakerdeckmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E3B1D7-1E32-0549-7BD8-2F1F8286DA42}|Assembly-CSharp.csproj|G:\\UnityHub\\unityproject\\monv_ver0.07\\assets\\scripts\\manager\\battleuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E3B1D7-1E32-0549-7BD8-2F1F8286DA42}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\battleuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E3B1D7-1E32-0549-7BD8-2F1F8286DA42}|Assembly-CSharp.csproj|G:\\UnityHub\\unityproject\\monv_ver0.07\\assets\\scripts\\ui\\panel\\breakerqueuepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E3B1D7-1E32-0549-7BD8-2F1F8286DA42}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\panel\\breakerqueuepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E3B1D7-1E32-0549-7BD8-2F1F8286DA42}|Assembly-CSharp.csproj|G:\\UnityHub\\unityproject\\monv_ver0.07\\assets\\scripts\\ui\\panel\\battlepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E3B1D7-1E32-0549-7BD8-2F1F8286DA42}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\panel\\battlepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E3B1D7-1E32-0549-7BD8-2F1F8286DA42}|Assembly-CSharp.csproj|G:\\UnityHub\\unityproject\\monv_ver0.07\\assets\\battleendpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E3B1D7-1E32-0549-7BD8-2F1F8286DA42}|Assembly-CSharp.csproj|solutionrelative:assets\\battleendpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E3B1D7-1E32-0549-7BD8-2F1F8286DA42}|Assembly-CSharp.csproj|G:\\UnityHub\\unityproject\\monv_ver0.07\\assets\\scripts\\ui\\cardview\\breakerqueueview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E3B1D7-1E32-0549-7BD8-2F1F8286DA42}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\cardview\\breakerqueueview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E3B1D7-1E32-0549-7BD8-2F1F8286DA42}|Assembly-CSharp.csproj|G:\\UnityHub\\unityproject\\monv_ver0.07\\assets\\scripts\\ui\\avatar\\destinytokenview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E3B1D7-1E32-0549-7BD8-2F1F8286DA42}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\avatar\\destinytokenview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E3B1D7-1E32-0549-7BD8-2F1F8286DA42}|Assembly-CSharp.csproj|G:\\UnityHub\\unityproject\\monv_ver0.07\\assets\\scripts\\card\\monobehaviour\\destiny\\destiny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E3B1D7-1E32-0549-7BD8-2F1F8286DA42}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card\\monobehaviour\\destiny\\destiny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E3B1D7-1E32-0549-7BD8-2F1F8286DA42}|Assembly-CSharp.csproj|G:\\UnityHub\\unityproject\\monv_ver0.07\\assets\\scripts\\card\\monobehaviour\\breaker\\breaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E3B1D7-1E32-0549-7BD8-2F1F8286DA42}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card\\monobehaviour\\breaker\\breaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\UnityHub\\unityproject\\monv_ver0.07\\Assets\\Scripts\\UI\\Avatar\\AvatarInfoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraManager.cs",
+              "DocumentMoniker": "G:\\UnityHub\\unityproject\\monv_ver0.07\\Assets\\CameraManager.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraManager.cs",
+              "ToolTip": "G:\\UnityHub\\unityproject\\monv_ver0.07\\Assets\\CameraManager.cs",
+              "RelativeToolTip": "Assets\\CameraManager.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowEUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T00:39:45.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BattleEndPanel.cs",
+              "DocumentMoniker": "G:\\UnityHub\\unityproject\\monv_ver0.07\\Assets\\BattleEndPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\BattleEndPanel.cs",
+              "ToolTip": "G:\\UnityHub\\unityproject\\monv_ver0.07\\Assets\\BattleEndPanel.cs",
+              "RelativeToolTip": "Assets\\BattleEndPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwMAAAABAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKrSURBVDhPzVHPT9NgGP7abmPrBvvVjS2brGxoDAWBRIFkkRAJhx3wphw4ePICF2O8j/0JXkmQAyfiwQsnT0sQxQRYKsKMwIRNWfeDdqVr19\u002B13cGbZ33e5M2TPN/3Pe/7fOCfA7GaYRgQsUogw7PDCMABjM/i8OTKJHTy9uSPBggAPxl\u002BAq3kV2CLW5oF2Gq733Y9DtJxv1wup1mUTfMon\u002Bbr/OjS5lJvpVLxC5\u002BFcURACCyNRZRDZZyqUWPRbNRl3UX29/fRBmjMVdnqar1df4pASCbgCWTCaDhB9BM/Q77QvWK9\u002BLJIFadlIAc0VXterBVnNEm7oGfpX7ZT8TTa5JovjqnjB3FfXBiNjp447I62oirXI5GRYJNvTlWYygQt0B1JlTw34s04L/GaBmvT/Wj/gW2nvONUDXXIhtjksejY\u002B7An/EbRlVpbafNYAONFQQwMBgdbZ82zVgpLFWJ9saHz5rkiK/JB/DQuwyRFgjJbNgKuwBUM4M2YM/Zh5u7Ml8xIppRAE7ogC32mo13WZCcjML6W1LKrumrXId3P9rBwN0Td0IGoiZ1CrXC5fmtdyhpZOJ/PI5IhBVmJxWvtGsp2WO8lc5kq0SWXqIpuDWi3uQHOhiw8Wwh7Ue9Sg2vYIQBV0lIaw\u002Bt4qgqqfhVSadSBCgzH2CmOOh4IDuwk/UmxxJS\u002Bm4G\u002BS3aSZWT51bLb2\u002BOdaAiNOxAEEeb\u002BD03XR5zMRc2fKcwl5o6uheuvNba2N0/MH0ZcEZK8Ij8xPFMkc6Rsw0Wcovvo1\u002BaOmikE937sgV60F4TcIdHtdOsYht1ks9n2xuqGYU4IDGBcL04tgi41AVlt6\u002BOWS4REfPtou\u002BeidQF8dh8wx20jPuRq7fGaYJ35G7oPWDBduoHmzMqa1eW5nN4l/zEA\u002BA2StF3sDwxHaQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-12-23T00:12:17.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BattlePanel.cs",
+              "DocumentMoniker": "G:\\UnityHub\\unityproject\\monv_ver0.07\\Assets\\Scripts\\UI\\Panel\\BattlePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Panel\\BattlePanel.cs",
+              "ToolTip": "G:\\UnityHub\\unityproject\\monv_ver0.07\\Assets\\Scripts\\UI\\Panel\\BattlePanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Panel\\BattlePanel.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAUwGIAAAAdAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKrSURBVDhPzVHPT9NgGP7abmPrBvvVjS2brGxoDAWBRIFkkRAJhx3wphw4ePICF2O8j/0JXkmQAyfiwQsnT0sQxQRYKsKMwIRNWfeDdqVr19\u002B13cGbZ33e5M2TPN/3Pe/7fOCfA7GaYRgQsUogw7PDCMABjM/i8OTKJHTy9uSPBggAPxl\u002BAq3kV2CLW5oF2Gq733Y9DtJxv1wup1mUTfMon\u002Bbr/OjS5lJvpVLxC5\u002BFcURACCyNRZRDZZyqUWPRbNRl3UX29/fRBmjMVdnqar1df4pASCbgCWTCaDhB9BM/Q77QvWK9\u002BLJIFadlIAc0VXterBVnNEm7oGfpX7ZT8TTa5JovjqnjB3FfXBiNjp447I62oirXI5GRYJNvTlWYygQt0B1JlTw34s04L/GaBmvT/Wj/gW2nvONUDXXIhtjksejY\u002B7An/EbRlVpbafNYAONFQQwMBgdbZ82zVgpLFWJ9saHz5rkiK/JB/DQuwyRFgjJbNgKuwBUM4M2YM/Zh5u7Ml8xIppRAE7ogC32mo13WZCcjML6W1LKrumrXId3P9rBwN0Td0IGoiZ1CrXC5fmtdyhpZOJ/PI5IhBVmJxWvtGsp2WO8lc5kq0SWXqIpuDWi3uQHOhiw8Wwh7Ue9Sg2vYIQBV0lIaw\u002Bt4qgqqfhVSadSBCgzH2CmOOh4IDuwk/UmxxJS\u002Bm4G\u002BS3aSZWT51bLb2\u002BOdaAiNOxAEEeb\u002BD03XR5zMRc2fKcwl5o6uheuvNba2N0/MH0ZcEZK8Ij8xPFMkc6Rsw0Wcovvo1\u002BaOmikE937sgV60F4TcIdHtdOsYht1ks9n2xuqGYU4IDGBcL04tgi41AVlt6\u002BOWS4REfPtou\u002BeidQF8dh8wx20jPuRq7fGaYJ35G7oPWDBduoHmzMqa1eW5nN4l/zEA\u002BA2StF3sDwxHaQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-12-23T00:12:17.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DestinyTrailManager.cs",
+              "DocumentMoniker": "G:\\UnityHub\\unityproject\\monv_ver0.07\\Assets\\Scripts\\Card\\MonoBehaviour\\Destiny\\DestinyTrailManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Card\\MonoBehaviour\\Destiny\\DestinyTrailManager.cs",
+              "ToolTip": "G:\\UnityHub\\unityproject\\monv_ver0.07\\Assets\\Scripts\\Card\\MonoBehaviour\\Destiny\\DestinyTrailManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Card\\MonoBehaviour\\Destiny\\DestinyTrailManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T00:12:17.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BreakerQueueView.cs",
+              "DocumentMoniker": "G:\\UnityHub\\unityproject\\monv_ver0.07\\Assets\\Scripts\\UI\\CardView\\BreakerQueueView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\CardView\\BreakerQueueView.cs",
+              "ToolTip": "G:\\UnityHub\\unityproject\\monv_ver0.07\\Assets\\Scripts\\UI\\CardView\\BreakerQueueView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\CardView\\BreakerQueueView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKrSURBVDhPzVHPT9NgGP7abmPrBvvVjS2brGxoDAWBRIFkkRAJhx3wphw4ePICF2O8j/0JXkmQAyfiwQsnT0sQxQRYKsKMwIRNWfeDdqVr19\u002B13cGbZ33e5M2TPN/3Pe/7fOCfA7GaYRgQsUogw7PDCMABjM/i8OTKJHTy9uSPBggAPxl\u002BAq3kV2CLW5oF2Gq733Y9DtJxv1wup1mUTfMon\u002Bbr/OjS5lJvpVLxC5\u002BFcURACCyNRZRDZZyqUWPRbNRl3UX29/fRBmjMVdnqar1df4pASCbgCWTCaDhB9BM/Q77QvWK9\u002BLJIFadlIAc0VXterBVnNEm7oGfpX7ZT8TTa5JovjqnjB3FfXBiNjp447I62oirXI5GRYJNvTlWYygQt0B1JlTw34s04L/GaBmvT/Wj/gW2nvONUDXXIhtjksejY\u002B7An/EbRlVpbafNYAONFQQwMBgdbZ82zVgpLFWJ9saHz5rkiK/JB/DQuwyRFgjJbNgKuwBUM4M2YM/Zh5u7Ml8xIppRAE7ogC32mo13WZCcjML6W1LKrumrXId3P9rBwN0Td0IGoiZ1CrXC5fmtdyhpZOJ/PI5IhBVmJxWvtGsp2WO8lc5kq0SWXqIpuDWi3uQHOhiw8Wwh7Ue9Sg2vYIQBV0lIaw\u002Bt4qgqqfhVSadSBCgzH2CmOOh4IDuwk/UmxxJS\u002Bm4G\u002BS3aSZWT51bLb2\u002BOdaAiNOxAEEeb\u002BD03XR5zMRc2fKcwl5o6uheuvNba2N0/MH0ZcEZK8Ij8xPFMkc6Rsw0Wcovvo1\u002BaOmikE937sgV60F4TcIdHtdOsYht1ks9n2xuqGYU4IDGBcL04tgi41AVlt6\u002BOWS4REfPtou\u002BeidQF8dh8wx20jPuRq7fGaYJ35G7oPWDBduoHmzMqa1eW5nN4l/zEA\u002BA2StF3sDwxHaQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-12-23T00:12:17.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BattleUIManager.cs",
+              "DocumentMoniker": "G:\\UnityHub\\unityproject\\monv_ver0.07\\Assets\\Scripts\\Manager\\BattleUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\BattleUIManager.cs",
+              "ToolTip": "G:\\UnityHub\\unityproject\\monv_ver0.07\\Assets\\Scripts\\Manager\\BattleUIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\BattleUIManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxoAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKrSURBVDhPzVHPT9NgGP7abmPrBvvVjS2brGxoDAWBRIFkkRAJhx3wphw4ePICF2O8j/0JXkmQAyfiwQsnT0sQxQRYKsKMwIRNWfeDdqVr19\u002B13cGbZ33e5M2TPN/3Pe/7fOCfA7GaYRgQsUogw7PDCMABjM/i8OTKJHTy9uSPBggAPxl\u002BAq3kV2CLW5oF2Gq733Y9DtJxv1wup1mUTfMon\u002Bbr/OjS5lJvpVLxC5\u002BFcURACCyNRZRDZZyqUWPRbNRl3UX29/fRBmjMVdnqar1df4pASCbgCWTCaDhB9BM/Q77QvWK9\u002BLJIFadlIAc0VXterBVnNEm7oGfpX7ZT8TTa5JovjqnjB3FfXBiNjp447I62oirXI5GRYJNvTlWYygQt0B1JlTw34s04L/GaBmvT/Wj/gW2nvONUDXXIhtjksejY\u002B7An/EbRlVpbafNYAONFQQwMBgdbZ82zVgpLFWJ9saHz5rkiK/JB/DQuwyRFgjJbNgKuwBUM4M2YM/Zh5u7Ml8xIppRAE7ogC32mo13WZCcjML6W1LKrumrXId3P9rBwN0Td0IGoiZ1CrXC5fmtdyhpZOJ/PI5IhBVmJxWvtGsp2WO8lc5kq0SWXqIpuDWi3uQHOhiw8Wwh7Ue9Sg2vYIQBV0lIaw\u002Bt4qgqqfhVSadSBCgzH2CmOOh4IDuwk/UmxxJS\u002Bm4G\u002BS3aSZWT51bLb2\u002BOdaAiNOxAEEeb\u002BD03XR5zMRc2fKcwl5o6uheuvNba2N0/MH0ZcEZK8Ij8xPFMkc6Rsw0Wcovvo1\u002BaOmikE937sgV60F4TcIdHtdOsYht1ks9n2xuqGYU4IDGBcL04tgi41AVlt6\u002BOWS4REfPtou\u002BeidQF8dh8wx20jPuRq7fGaYJ35G7oPWDBduoHmzMqa1eW5nN4l/zEA\u002BA2StF3sDwxHaQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-12-23T00:12:17.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AvatarInfoController.cs",
+              "DocumentMoniker": "F:\\UnityHub\\unityproject\\monv_ver0.07\\Assets\\Scripts\\UI\\Avatar\\AvatarInfoController.cs",
+              "ToolTip": "F:\\UnityHub\\unityproject\\monv_ver0.07\\Assets\\Scripts\\UI\\Avatar\\AvatarInfoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T13:53:14.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DestinyTokenView.cs",
+              "DocumentMoniker": "G:\\UnityHub\\unityproject\\monv_ver0.07\\Assets\\Scripts\\UI\\Avatar\\DestinyTokenView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Avatar\\DestinyTokenView.cs",
+              "ToolTip": "G:\\UnityHub\\unityproject\\monv_ver0.07\\Assets\\Scripts\\UI\\Avatar\\DestinyTokenView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Avatar\\DestinyTokenView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAABAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKrSURBVDhPzVHPT9NgGP7abmPrBvvVjS2brGxoDAWBRIFkkRAJhx3wphw4ePICF2O8j/0JXkmQAyfiwQsnT0sQxQRYKsKMwIRNWfeDdqVr19\u002B13cGbZ33e5M2TPN/3Pe/7fOCfA7GaYRgQsUogw7PDCMABjM/i8OTKJHTy9uSPBggAPxl\u002BAq3kV2CLW5oF2Gq733Y9DtJxv1wup1mUTfMon\u002Bbr/OjS5lJvpVLxC5\u002BFcURACCyNRZRDZZyqUWPRbNRl3UX29/fRBmjMVdnqar1df4pASCbgCWTCaDhB9BM/Q77QvWK9\u002BLJIFadlIAc0VXterBVnNEm7oGfpX7ZT8TTa5JovjqnjB3FfXBiNjp447I62oirXI5GRYJNvTlWYygQt0B1JlTw34s04L/GaBmvT/Wj/gW2nvONUDXXIhtjksejY\u002B7An/EbRlVpbafNYAONFQQwMBgdbZ82zVgpLFWJ9saHz5rkiK/JB/DQuwyRFgjJbNgKuwBUM4M2YM/Zh5u7Ml8xIppRAE7ogC32mo13WZCcjML6W1LKrumrXId3P9rBwN0Td0IGoiZ1CrXC5fmtdyhpZOJ/PI5IhBVmJxWvtGsp2WO8lc5kq0SWXqIpuDWi3uQHOhiw8Wwh7Ue9Sg2vYIQBV0lIaw\u002Bt4qgqqfhVSadSBCgzH2CmOOh4IDuwk/UmxxJS\u002Bm4G\u002BS3aSZWT51bLb2\u002BOdaAiNOxAEEeb\u002BD03XR5zMRc2fKcwl5o6uheuvNba2N0/MH0ZcEZK8Ij8xPFMkc6Rsw0Wcovvo1\u002BaOmikE937sgV60F4TcIdHtdOsYht1ks9n2xuqGYU4IDGBcL04tgi41AVlt6\u002BOWS4REfPtou\u002BeidQF8dh8wx20jPuRq7fGaYJ35G7oPWDBduoHmzMqa1eW5nN4l/zEA\u002BA2StF3sDwxHaQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-12-23T00:12:17.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Destiny.cs",
+              "DocumentMoniker": "G:\\UnityHub\\unityproject\\monv_ver0.07\\Assets\\Scripts\\Card\\MonoBehaviour\\Destiny\\Destiny.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Card\\MonoBehaviour\\Destiny\\Destiny.cs",
+              "ToolTip": "G:\\UnityHub\\unityproject\\monv_ver0.07\\Assets\\Scripts\\Card\\MonoBehaviour\\Destiny\\Destiny.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Card\\MonoBehaviour\\Destiny\\Destiny.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACgAAAAYAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKrSURBVDhPzVHPT9NgGP7abmPrBvvVjS2brGxoDAWBRIFkkRAJhx3wphw4ePICF2O8j/0JXkmQAyfiwQsnT0sQxQRYKsKMwIRNWfeDdqVr19\u002B13cGbZ33e5M2TPN/3Pe/7fOCfA7GaYRgQsUogw7PDCMABjM/i8OTKJHTy9uSPBggAPxl\u002BAq3kV2CLW5oF2Gq733Y9DtJxv1wup1mUTfMon\u002Bbr/OjS5lJvpVLxC5\u002BFcURACCyNRZRDZZyqUWPRbNRl3UX29/fRBmjMVdnqar1df4pASCbgCWTCaDhB9BM/Q77QvWK9\u002BLJIFadlIAc0VXterBVnNEm7oGfpX7ZT8TTa5JovjqnjB3FfXBiNjp447I62oirXI5GRYJNvTlWYygQt0B1JlTw34s04L/GaBmvT/Wj/gW2nvONUDXXIhtjksejY\u002B7An/EbRlVpbafNYAONFQQwMBgdbZ82zVgpLFWJ9saHz5rkiK/JB/DQuwyRFgjJbNgKuwBUM4M2YM/Zh5u7Ml8xIppRAE7ogC32mo13WZCcjML6W1LKrumrXId3P9rBwN0Td0IGoiZ1CrXC5fmtdyhpZOJ/PI5IhBVmJxWvtGsp2WO8lc5kq0SWXqIpuDWi3uQHOhiw8Wwh7Ue9Sg2vYIQBV0lIaw\u002Bt4qgqqfhVSadSBCgzH2CmOOh4IDuwk/UmxxJS\u002Bm4G\u002BS3aSZWT51bLb2\u002BOdaAiNOxAEEeb\u002BD03XR5zMRc2fKcwl5o6uheuvNba2N0/MH0ZcEZK8Ij8xPFMkc6Rsw0Wcovvo1\u002BaOmikE937sgV60F4TcIdHtdOsYht1ks9n2xuqGYU4IDGBcL04tgi41AVlt6\u002BOWS4REfPtou\u002BeidQF8dh8wx20jPuRq7fGaYJ35G7oPWDBduoHmzMqa1eW5nN4l/zEA\u002BA2StF3sDwxHaQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-12-23T00:12:17.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Breaker.cs",
+              "DocumentMoniker": "G:\\UnityHub\\unityproject\\monv_ver0.07\\Assets\\Scripts\\Card\\MonoBehaviour\\Breaker\\Breaker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Card\\MonoBehaviour\\Breaker\\Breaker.cs",
+              "ToolTip": "G:\\UnityHub\\unityproject\\monv_ver0.07\\Assets\\Scripts\\Card\\MonoBehaviour\\Breaker\\Breaker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Card\\MonoBehaviour\\Breaker\\Breaker.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKrSURBVDhPzVHPT9NgGP7abmPrBvvVjS2brGxoDAWBRIFkkRAJhx3wphw4ePICF2O8j/0JXkmQAyfiwQsnT0sQxQRYKsKMwIRNWfeDdqVr19\u002B13cGbZ33e5M2TPN/3Pe/7fOCfA7GaYRgQsUogw7PDCMABjM/i8OTKJHTy9uSPBggAPxl\u002BAq3kV2CLW5oF2Gq733Y9DtJxv1wup1mUTfMon\u002Bbr/OjS5lJvpVLxC5\u002BFcURACCyNRZRDZZyqUWPRbNRl3UX29/fRBmjMVdnqar1df4pASCbgCWTCaDhB9BM/Q77QvWK9\u002BLJIFadlIAc0VXterBVnNEm7oGfpX7ZT8TTa5JovjqnjB3FfXBiNjp447I62oirXI5GRYJNvTlWYygQt0B1JlTw34s04L/GaBmvT/Wj/gW2nvONUDXXIhtjksejY\u002B7An/EbRlVpbafNYAONFQQwMBgdbZ82zVgpLFWJ9saHz5rkiK/JB/DQuwyRFgjJbNgKuwBUM4M2YM/Zh5u7Ml8xIppRAE7ogC32mo13WZCcjML6W1LKrumrXId3P9rBwN0Td0IGoiZ1CrXC5fmtdyhpZOJ/PI5IhBVmJxWvtGsp2WO8lc5kq0SWXqIpuDWi3uQHOhiw8Wwh7Ue9Sg2vYIQBV0lIaw\u002Bt4qgqqfhVSadSBCgzH2CmOOh4IDuwk/UmxxJS\u002Bm4G\u002BS3aSZWT51bLb2\u002BOdaAiNOxAEEeb\u002BD03XR5zMRc2fKcwl5o6uheuvNba2N0/MH0ZcEZK8Ij8xPFMkc6Rsw0Wcovvo1\u002BaOmikE937sgV60F4TcIdHtdOsYht1ks9n2xuqGYU4IDGBcL04tgi41AVlt6\u002BOWS4REfPtou\u002BeidQF8dh8wx20jPuRq7fGaYJ35G7oPWDBduoHmzMqa1eW5nN4l/zEA\u002BA2StF3sDwxHaQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-12-23T00:12:17.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharacterBase.cs",
+              "DocumentMoniker": "G:\\UnityHub\\unityproject\\monv_ver0.07\\Assets\\Scripts\\Character\\CharacterBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\CharacterBase.cs",
+              "ToolTip": "G:\\UnityHub\\unityproject\\monv_ver0.07\\Assets\\Scripts\\Character\\CharacterBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\CharacterBase.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAmwNwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T00:12:17.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BreakerQueuePanel.cs",
+              "DocumentMoniker": "G:\\UnityHub\\unityproject\\monv_ver0.07\\Assets\\Scripts\\UI\\Panel\\BreakerQueuePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Panel\\BreakerQueuePanel.cs",
+              "ToolTip": "G:\\UnityHub\\unityproject\\monv_ver0.07\\Assets\\Scripts\\UI\\Panel\\BreakerQueuePanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Panel\\BreakerQueuePanel.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwAUAAAAoAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKrSURBVDhPzVHPT9NgGP7abmPrBvvVjS2brGxoDAWBRIFkkRAJhx3wphw4ePICF2O8j/0JXkmQAyfiwQsnT0sQxQRYKsKMwIRNWfeDdqVr19\u002B13cGbZ33e5M2TPN/3Pe/7fOCfA7GaYRgQsUogw7PDCMABjM/i8OTKJHTy9uSPBggAPxl\u002BAq3kV2CLW5oF2Gq733Y9DtJxv1wup1mUTfMon\u002Bbr/OjS5lJvpVLxC5\u002BFcURACCyNRZRDZZyqUWPRbNRl3UX29/fRBmjMVdnqar1df4pASCbgCWTCaDhB9BM/Q77QvWK9\u002BLJIFadlIAc0VXterBVnNEm7oGfpX7ZT8TTa5JovjqnjB3FfXBiNjp447I62oirXI5GRYJNvTlWYygQt0B1JlTw34s04L/GaBmvT/Wj/gW2nvONUDXXIhtjksejY\u002B7An/EbRlVpbafNYAONFQQwMBgdbZ82zVgpLFWJ9saHz5rkiK/JB/DQuwyRFgjJbNgKuwBUM4M2YM/Zh5u7Ml8xIppRAE7ogC32mo13WZCcjML6W1LKrumrXId3P9rBwN0Td0IGoiZ1CrXC5fmtdyhpZOJ/PI5IhBVmJxWvtGsp2WO8lc5kq0SWXqIpuDWi3uQHOhiw8Wwh7Ue9Sg2vYIQBV0lIaw\u002Bt4qgqqfhVSadSBCgzH2CmOOh4IDuwk/UmxxJS\u002Bm4G\u002BS3aSZWT51bLb2\u002BOdaAiNOxAEEeb\u002BD03XR5zMRc2fKcwl5o6uheuvNba2N0/MH0ZcEZK8Ij8xPFMkc6Rsw0Wcovvo1\u002BaOmikE937sgV60F4TcIdHtdOsYht1ks9n2xuqGYU4IDGBcL04tgi41AVlt6\u002BOWS4REfPtou\u002BeidQF8dh8wx20jPuRq7fGaYJ35G7oPWDBduoHmzMqa1eW5nN4l/zEA\u002BA2StF3sDwxHaQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-12-23T00:12:17.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BreakerDeckManager.cs",
+              "DocumentMoniker": "G:\\UnityHub\\unityproject\\monv_ver0.07\\Assets\\Scripts\\Manager\\BreakerDeckManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\BreakerDeckManager.cs",
+              "ToolTip": "G:\\UnityHub\\unityproject\\monv_ver0.07\\Assets\\Scripts\\Manager\\BreakerDeckManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\BreakerDeckManager.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAgwEYAAAAoAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKrSURBVDhPzVHPT9NgGP7abmPrBvvVjS2brGxoDAWBRIFkkRAJhx3wphw4ePICF2O8j/0JXkmQAyfiwQsnT0sQxQRYKsKMwIRNWfeDdqVr19\u002B13cGbZ33e5M2TPN/3Pe/7fOCfA7GaYRgQsUogw7PDCMABjM/i8OTKJHTy9uSPBggAPxl\u002BAq3kV2CLW5oF2Gq733Y9DtJxv1wup1mUTfMon\u002Bbr/OjS5lJvpVLxC5\u002BFcURACCyNRZRDZZyqUWPRbNRl3UX29/fRBmjMVdnqar1df4pASCbgCWTCaDhB9BM/Q77QvWK9\u002BLJIFadlIAc0VXterBVnNEm7oGfpX7ZT8TTa5JovjqnjB3FfXBiNjp447I62oirXI5GRYJNvTlWYygQt0B1JlTw34s04L/GaBmvT/Wj/gW2nvONUDXXIhtjksejY\u002B7An/EbRlVpbafNYAONFQQwMBgdbZ82zVgpLFWJ9saHz5rkiK/JB/DQuwyRFgjJbNgKuwBUM4M2YM/Zh5u7Ml8xIppRAE7ogC32mo13WZCcjML6W1LKrumrXId3P9rBwN0Td0IGoiZ1CrXC5fmtdyhpZOJ/PI5IhBVmJxWvtGsp2WO8lc5kq0SWXqIpuDWi3uQHOhiw8Wwh7Ue9Sg2vYIQBV0lIaw\u002Bt4qgqqfhVSadSBCgzH2CmOOh4IDuwk/UmxxJS\u002Bm4G\u002BS3aSZWT51bLb2\u002BOdaAiNOxAEEeb\u002BD03XR5zMRc2fKcwl5o6uheuvNba2N0/MH0ZcEZK8Ij8xPFMkc6Rsw0Wcovvo1\u002BaOmikE937sgV60F4TcIdHtdOsYht1ks9n2xuqGYU4IDGBcL04tgi41AVlt6\u002BOWS4REfPtou\u002BeidQF8dh8wx20jPuRq7fGaYJ35G7oPWDBduoHmzMqa1eW5nN4l/zEA\u002BA2StF3sDwxHaQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-12-23T00:12:17.364Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da2a0a234c8ee484486f8d1619ce62f7, type: 3}
+  m_Name: Witch
+  m_EditorClassIdentifier: 
+  Name: 
+  avatarSprite: {fileID: 3045636691702916992, guid: 7ce8c77df32491643b296db7a45b1cab, type: 3}
+  Icon: {fileID: 3045636691702916992, guid: 7ce8c77df32491643b296db7a45b1cab, type: 3}
+  MaxSlots: 5
+  prefab: {fileID: 1844442469295877219, guid: ebe568a55aa1cb44b8b427e47d046a2c, type: 3}
+  initialHandSize: 4
+  equippedSlotsDataList:
+  - {fileID: 11400000, guid: 64f43d54ddf711d4e9012079ec82a4a0, type: 2}
+  - {fileID: 11400000, guid: 247a597e74fbe7a4584043bb897e2359, type: 2}
+  - {fileID: 11400000, guid: 8a165e34ade1fdc4493a34556d123591, type: 2}
+  - {fileID: 11400000, guid: 04ac998ae7e9ef94d93a3f715cfb60a0, type: 2}
+  - {fileID: 11400000, guid: 20a81db32c0ba3b4c90f671a26e08a28, type: 2}
+  equippedDestinyDataList:
+  - {fileID: 11400000, guid: d42e8a7efde45184e8b19bf9a4b03071, type: 2}
+  - {fileID: 11400000, guid: d42e8a7efde45184e8b19bf9a4b03071, type: 2}
+  - {fileID: 11400000, guid: d42e8a7efde45184e8b19bf9a4b03071, type: 2}
+  - {fileID: 11400000, guid: d42e8a7efde45184e8b19bf9a4b03071, type: 2}

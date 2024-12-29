@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 010f656de013cb74a837194a48a44fed, type: 3}
+  m_Name: ItemDataListSO
+  m_EditorClassIdentifier: 
+  itemDetailsList:
+  - itemID: 1000
+    itemName: "\u5377\u8F74"
+    itemType: 1
+    itemIcon: {fileID: 21300000, guid: f5fd334e58aae224da423bd88e5fffce, type: 3}
+    itemOnWorldSprite: {fileID: 0}
+    itemDescription: asdqw
+    itemBaseValue: 4
+    itemRare: 5
+    itemPrice: 1
+    sellPercentage: 0.555
+  - itemID: 1001
+    itemName: "\u54D1\u94C3"
+    itemType: 2
+    itemIcon: {fileID: 21300000, guid: 74bd63f67fca31042b37127d459a5b90, type: 3}
+    itemOnWorldSprite: {fileID: 0}
+    itemDescription: 
+    itemBaseValue: 0
+    itemRare: 0
+    itemPrice: 0
+    sellPercentage: 0
+  - itemID: 1004
+    itemName: New Item
+    itemType: 0
+    itemIcon: {fileID: 0}
+    itemOnWorldSprite: {fileID: 0}
+    itemDescription: 
+    itemBaseValue: 0
+    itemRare: 0
+    itemPrice: 0
+    sellPercentage: 0
